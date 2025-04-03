@@ -23,3 +23,7 @@ Modern C++ Project was a team project that features a multiplayer “Battle City
  # CPU interruptions simulation
  A Python project that simulates CPU interruptions triggered by mouse and keyboard inputs. 
 [Go to project](https://github.com/Oana-Sebastian/CPU-Interruptions.git)
+
+ # Memory Game
+  A WPF-based memory game with functions such as user sign-up and sign-in, statistics, game saves, custom grid size, photo categories, win/fail conditions. The players, along their statistics and game saves are stored in json files. Once a player wins or starts a game, their stats update. Any player can see other player's stats, but cannot load another player's savegame. WHen a player saves their game, the previous savefile gets overwritten and the state of the game (flipped tiles, time left) is stored.
+[Go to project](https://github.com/Oana-Sebastian/MemoryGame.git)
